@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<props>
+
+	<prop>
+		<id>sp002</id>
+		<seq>0</seq>
+		<pk>g</pk>
+		<pv>t</pv>
+		<desc>h</desc>
+	</prop>
+
+	<prop>
+		<id>sp003</id>
+		<seq>7</seq>
+		<pk>h</pk>
+		<pv>y</pv>
+		<desc>t</desc>
+	</prop>
+	<prop>
+		<id>sp001</id>
+		<seq>9</seq>
+		<pk>u</pk>
+		<pv>j</pv>
+		<desc>l</desc>
+	</prop>
+</props>
